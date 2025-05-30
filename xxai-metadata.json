@@ -2,7 +2,7 @@
     "name": "XXAI Token",
     "symbol": "XXAI",
     "description": "XXAI是一个基于Solana区块链的创新代币",
-    "image": "https://github.com/NoahMax1997/HTTP_VUE/blob/main/cat.jpeg",
+    "image": "https://raw.githubusercontent.com/NoahMax1997/zifei-panel/main/cat.jpeg",
     "attributes": [
         {
             "trait_type": "Type",
@@ -22,7 +22,7 @@
         "category": "ft",
         "files": [
             {
-                "uri": "https://github.com/NoahMax1997/HTTP_VUE/blob/main/cat.jpeg",
+                "uri": "https://raw.githubusercontent.com/NoahMax1997/zifei-panel/main/cat.jpeg",
                 "type": "image/jpeg"
             }
         ]
