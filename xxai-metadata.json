@@ -1,0 +1,30 @@
+{
+    "name": "XXAI Token",
+    "symbol": "XXAI",
+    "description": "XXAI是一个基于Solana区块链的创新代币",
+    "image": "https://github.com/NoahMax1997/HTTP_VUE/blob/main/cat.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Utility Token"
+        },
+        {
+            "trait_type": "Blockchain",
+            "value": "Solana"
+        },
+        {
+            "trait_type": "Decimals",
+            "value": "9"
+        }
+    ],
+    "external_url": "http://www.testing.cyberkite.xyz/",
+    "properties": {
+        "category": "ft",
+        "files": [
+            {
+                "uri": "https://github.com/NoahMax1997/HTTP_VUE/blob/main/cat.jpeg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+} 
